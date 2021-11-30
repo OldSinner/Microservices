@@ -57,3 +57,6 @@ finally
     Log.Information("Close Logger and flush");
     Log.CloseAndFlush();
 }
+
+
+
